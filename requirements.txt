@@ -1,0 +1,6 @@
+jupyter
+kagglehub
+pandas
+scikit-learn
+tensorflow
+tensorflow[and-cuda]
